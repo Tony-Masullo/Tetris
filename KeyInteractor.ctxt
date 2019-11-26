@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=KeyInteractor
+comment0.text=\r\n\ A\ simplified\ class\ for\ keyboard\ interaction.\ Subclasses\ override\r\n\ the\ \ actionPerformed\ method\ to\ do\ something\ useful.\ While\ \ \ \ \ \ \ \ \ \r\nthe\ javax.swing.JComponent\ passed\ in\ can\ technically\ be\r\n\ anything,\ it\ should\ generally\ be\ the\ main\ panel\ in\ a\ GUI.\r\n\ The\ call\ to\ super()\ in\ the\ subclass\ will\ need\ parameters--the\ component\ \r\n\ and\ the\ keyCode\ at\ least.\r\n\r\n\ @author\ John\ Goodwin\ (simplified\ rdm)\r\n
+comment1.params=comp\ keyCode\ mod
+comment1.target=KeyInteractor(javax.swing.JComponent,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ key\ interactor\ for\ the\ specified\ component.\r\n\r\n\ @param\ comp\ the\ component\ that\ will\ receive\ the\ key\ input\r\n\ @param\ keyCode\ the\ (int)\ key\ code\ that\ the\ interactor\ will\ respond\ to\r\n\ @param\ mod\ the\ (int)\ modifier\ of\ that\ key\ code.\ \r\n\ \ see\ constants\ in\ KeyEvent\ for\ codes\r\n
+comment2.params=comp\ keyCode
+comment2.target=KeyInteractor(javax.swing.JComponent,\ int)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.text=\r\n\r\n\ The\ method\ that\ gets\ called\ when\ the\ key\ is\ pressed.\r\n\r\n\ @param\ e\ the\ ActionEvent\ associated\ with\ the\ current\ call\r\n
+numComments=4

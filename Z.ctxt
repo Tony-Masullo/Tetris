@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Z
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Z\ here.\r\n\r\n\ @author\ Greg\ Johnson,\ University\ of\ Connecticut\r\n\ @version\ 0.3\r\n
+comment1.params=x\ y\ panel
+comment1.target=Z(int,\ int,\ GamePanel)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Z\r\n
+comment2.params=x\ y
+comment2.target=void\ setLocation(int,\ int)
+comment2.text=\r\n\ Sets\ the\ location\ of\ the\ composite\ Tetrimino\ object\r\n\r\n\ @param\ \ x\ \ the\ x-coordinate\ in\ the\ JPanel\ to\ which\ to\ move\ this\ object\r\n\ @param\ \ y\ \ the\ y-coordinate\ in\ the\ JPanel\ to\ which\ to\ move\ this\ object\r\n\ @return\ \ \ \ Nothing\r\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=SmartRectangle
+comment0.text=\r\n\ Chapter\ 9\:\ SmartRectangle.java\r\n\ Adds\ capabilities\ to\ the\ Java2D.Double\ rectangle.\r\n\ Same\ as\ the\ class\ defined\ in\ Chapter\ 7.\r\n
+comment1.params=aColor
+comment1.target=SmartRectangle(java.awt.Color)
+comment2.params=aColor
+comment2.target=void\ setBorderColor(java.awt.Color)
+comment3.params=aColor
+comment3.target=void\ setFillColor(java.awt.Color)
+comment4.params=aColor
+comment4.target=void\ setColor(java.awt.Color)
+comment5.params=aRotation
+comment5.target=void\ setRotation(int)
+comment6.params=x\ y
+comment6.target=void\ setLocation(double,\ double)
+comment7.params=aWidth\ aHeight
+comment7.target=void\ setSize(int,\ int)
+comment8.params=aBrush
+comment8.target=void\ fill(java.awt.Graphics2D)
+comment9.params=aBrush
+comment9.target=void\ draw(java.awt.Graphics2D)
+numComments=10

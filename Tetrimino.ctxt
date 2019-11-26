@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Tetrimino
+comment0.text=\r\n\ Abstract\ class\ Tetrimino\ -\ write\ a\ description\ of\ the\ class\ here\r\n\r\n\ @author\ Greg\ Johnson,\ University\ of\ Connecticut\r\n\ @version\ 0.3\r\n
+comment1.params=color
+comment1.target=Tetrimino(java.awt.Color)
+comment10.params=
+comment10.target=boolean\ turnRight()
+comment10.text=\r\n\ Attempts\ to\ rotate\ the\ Tetrimino\ object\ clockwise\ on\ the\ game\ board.\ This\ method\ checks\ the\ GamePanel\r\n\r\n\ @return\ \ boolean\ \ Always\ returns\ false\ since\ this\ move\ is\ not\ allowed\r\n
+comment2.params=aBrush
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=aBrush
+comment3.target=void\ fill(java.awt.Graphics2D)
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment4.text=\r\n\ Sets\ the\ location\ of\ the\ composite\ Tetrimino\ object\r\n\r\n\ @param\ \ x\ \ the\ x-coordinate\ in\ the\ JPanel\ to\ which\ to\ move\ this\ object\r\n\ @param\ \ y\ \ the\ y-coordinate\ in\ the\ JPanel\ to\ which\ to\ move\ this\ object\r\n\ @return\ \ \ \ Nothing\r\n
+comment5.params=
+comment5.target=boolean\ moveLeft()
+comment6.params=
+comment6.target=boolean\ moveRight()
+comment7.params=
+comment7.target=boolean\ moveDown()
+comment8.params=
+comment8.target=boolean\ moveUp()
+comment8.text=\r\n\ Attempts\ to\ move\ the\ Tetrimino\ object\ up\ on\ the\ game\ board.\ This\ is\ not\ a\ valid\ move\ in\ Tetris.\ \r\n\r\n\ @return\ \ boolean\ \ Always\ returns\ false\ since\ this\ move\ is\ not\ allowed\r\n
+comment9.params=
+comment9.target=boolean\ turnLeft()
+numComments=11
