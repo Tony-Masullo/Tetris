@@ -2,8 +2,7 @@
 /**
  * Write a description of class TetrisConstants here.
  * 
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+ 
  */
 public class TetrisConstants
 {

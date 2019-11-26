@@ -1,9 +1,7 @@
 
 /**
  * Write a description of class Z here.
- *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+
  */
 
 public class Z extends Tetrimino

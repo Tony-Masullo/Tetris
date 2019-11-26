@@ -2,8 +2,7 @@
 /**
  * Write a description of class TetriminoProxy here.
  *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+
  */
 public class PieceProxy implements Animatable
 {

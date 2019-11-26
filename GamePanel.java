@@ -5,10 +5,7 @@ import java.util.Random;
 import java.awt.Color;
 
 /**
- * Write a description of class GamePanel here.
- *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+ * Write a description of class GamePanel here
  */
 public class GamePanel extends JPanel implements ActionListener
 {

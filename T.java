@@ -2,8 +2,6 @@
 /**
  * Write a description of class T here.
  *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
  */
 public class T extends Tetrimino
 {

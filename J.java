@@ -1,9 +1,7 @@
 
 /**
  * Write a description of class J here.
- *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+
  */
 public class J extends Tetrimino
 {

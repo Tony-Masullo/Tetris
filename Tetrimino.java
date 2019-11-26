@@ -2,8 +2,6 @@
 /**
  * Abstract class Tetrimino - write a description of the class here
  *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
  */
 
 public abstract class Tetrimino implements Animatable

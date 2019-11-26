@@ -2,8 +2,7 @@
 /**
  * Write a description of class I here.
  *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+
  */
 public class I extends Tetrimino
 {

@@ -4,8 +4,7 @@ import javax.swing.JPanel;
 /**
  * Write a description of class TetrisApp here.
  *
- * @author Greg Johnson, University of Connecticut
- * @version 0.3
+
  */
 public class TetrisApp extends JFrame{
     private GamePanel _gamePanel;
